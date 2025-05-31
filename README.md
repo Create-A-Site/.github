@@ -1,15 +1,10 @@
-# 🚀 Create-A-Site
 
-**Build stunning websites with no hassle**  
-*Powerful tools for developers and beginners alike*
+# Create-A-Site
 
-![Create-A-Site Logo](/assets/Create-A-Site.png) <!-- Replace with your actual logo -->
+Create-A-Site is an AI drivin website that will remain free and adless froever. We hope to provide an easy way to create a tunning website at no cost.
+## 🔗 Links
+[![Organization](https://img.shields.io/badge/Create--A--Site--Organization-2F3237)](https://Create-A-Site.github.io)
+[![Webiste](https://img.shields.io/badge/Create--A--Site-3B82F6)](https://Create-A-Site.github.io)
+## Members
 
-## 📌 About Us
-
-We provide:
-- AI Website Builders
-- HTML Runner
-- Contanct Information
-```javascript
-<p align="center"> Need help? <a href="mailto:Create.A.Site.Official@gmail.com">Email us</a> or visit our <a href="https://Create-A-Site.github.io">website</a>!<br> ⭐ <strong>Star our repos</strong> to support our work! </p>
+ - [Create-A-Site-Official](https://github.com/Create-A-Site-Official)
