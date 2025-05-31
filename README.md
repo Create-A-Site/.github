@@ -12,7 +12,4 @@ We provide:
 - HTML Runner
 - Contanct Information
 ```javascript
-// Example: How easy it is with us
-const createWebsite = (ideas) => {
-  return transformInto(ideas, "beautiful-website");
-};
+<p align="center"> Need help? <a href="mailto:Create.A.Site.Official@gmail.com">Email us</a> or visit our <a href="https://Create-A-Site.github.io">website</a>!<br> ⭐ <strong>Star our repos</strong> to support our work! </p>
