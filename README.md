@@ -3,7 +3,7 @@
 **Build stunning websites with no hassle**  
 *Powerful tools for developers and beginners alike*
 
-![Create-A-Site Logo](/assests/Create-A-Site.png) <!-- Replace with your actual logo -->
+![Create-A-Site Logo](/assets/Create-A-Site Logo.png) <!-- Replace with your actual logo -->
 
 ## 📌 About Us
 
